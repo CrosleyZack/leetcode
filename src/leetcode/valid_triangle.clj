@@ -1,5 +1,5 @@
 (ns leetcode.valid-triangle
-  (:require '[clojure.math.combinatorics :as combo]))
+  (:require [clojure.math.combinatorics :as combo]))
 
 ; Given an integer array nums, return the number of
 ;   triplets chosen from the array that can make
